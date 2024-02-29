@@ -9,4 +9,4 @@
 ![Library](/img/Library.png)
 
 > ***Explorer***
-![Explorer](/img/NowPlaying.png)
+![Explorer](/img/Explorer.png)
