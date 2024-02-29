@@ -6,8 +6,8 @@
 > NowPlaying
 ![NowPlaying](/img/NowPlaying.png)
 
-> Library
+> ***Library***
 ![Library](/img/Library.png)
 
-> Explorer
+> **Explorer**
 ![Explorer](/img/NowPlaying.png)
